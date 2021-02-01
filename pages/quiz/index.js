@@ -12,9 +12,9 @@ import AlternativesForm from "../../src/components/AlternativesForm";
 function LoadingWidget() {
   return (
     <Widget>
-      <Widget.Header>Carregando...</Widget.Header>
+      <Widget.Header>Aguarde</Widget.Header>
 
-      <Widget.Content>Loading....</Widget.Content>
+      <Widget.Content>Carregando o Quiz...</Widget.Content>
     </Widget>
   );
 }
