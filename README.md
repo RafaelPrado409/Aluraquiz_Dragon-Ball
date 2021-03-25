@@ -1,5 +1,12 @@
 # Dragon-Ball-Quiz
 
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![StyledComponents](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next](https://img.shields.io/badge/Next-07405E?style=for-the-badge&logo=next.js&logoColor=white)
+
 ![Imgur](https://i.imgur.com/77Z6JGz.png)
 
 # English
@@ -44,7 +51,12 @@ npm run start
 
 ***Some dependences were not mentioned, to make part of the relevants***
 
-***To feedbacks and contact: santiagorafael409@gmail.com***
+### Feedbacks
+
+[![Linkedin: Rafael Prado](https://img.shields.io/badge/-RafaelPrado-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/rafael-prado-8a40b6132/)
+[![Gmail Badge](https://img.shields.io/badge/-santiagorafael409@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:santiagorafael409@gmail.com)
+[![Rafael Prado]( https://img.shields.io/github/followers/RafaelPrado409?label=follow&style=social)](https://github.com/RafaelPrado409)
+
 
 # Português
 
@@ -87,4 +99,8 @@ para iniciar a aplicação apos a instalação das dependências
 - [Framer Motion](https://www.framer.com/motion/) Permite a construção de designs rapidos com CSS;
 ***Algumas dependências não foram mencionadas, por fazerem parte das relevantes***
 
-***Para feedbacks e contato: santiagorafael409@gmail.com***
+### Feedbacks
+
+[![Linkedin: Rafael Prado](https://img.shields.io/badge/-RafaelPrado-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/rafael-prado-8a40b6132/)
+[![Gmail Badge](https://img.shields.io/badge/-santiagorafael409@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:santiagorafael409@gmail.com)
+[![Rafael Prado]( https://img.shields.io/github/followers/RafaelPrado409?label=follow&style=social)](https://github.com/RafaelPrado409)
